@@ -9,6 +9,9 @@ var firebaseConfig = {
   appId: "1:338524254078:web:7b136840e707bbbd158d2f",
   measurementId: "G-YEWHCYX3S5",
 };
+
+HEHEHE;
+
 var firestore = require("firebase/firestore");
 var firebase = require("firebase");
 if (firebase.apps.length === 0) {
